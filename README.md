@@ -1,1 +1,1 @@
-# Task1-Vk
+This is the 1st Task of my summer internship in which I have to 'TAKE AN EXISTING WEBSITE LANDING PAGE AND REDESIGN IT TO IMPROVEUSABILITY AND AESTHETICS."
