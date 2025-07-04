@@ -1,1 +1,10 @@
-This is the 1st Task of my summer internship in which I have to 'TAKE AN EXISTING WEBSITE LANDING PAGE AND REDESIGN IT TO IMPROVEUSABILITY AND AESTHETICS."
+📌 Task 1: Website Landing Page Redesign
+Objective:
+Redesign an existing website landing page to enhance its usability and visual appeal.
+
+Deliverables:
+
+Before-and-after visuals
+
+Brief explanation of the design improvements and decisions
+
